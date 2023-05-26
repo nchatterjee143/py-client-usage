@@ -1,5 +1,5 @@
 # py-client-integration
-Integration for general TigrisDB user for Python SDK
+Integration for general TigrisDB users for Python SDK.
 
 ### Instructions
 1. Checkout repo and `cd py-client-integration` to change to project root.
